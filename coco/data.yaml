@@ -1,0 +1,5 @@
+train: coco/train/images
+val: coco/valid/images
+
+nc: 2
+names: ['green_ball', 'red_ball']
